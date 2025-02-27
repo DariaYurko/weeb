@@ -1,11 +1,11 @@
 {
-  "name": "holiday-resort",
+  "name": "weeb",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/holiday-resort/",
+    "build": "vite build --base=/weeb/",
     "preview": "vite preview"
   },
   "devDependencies": {
