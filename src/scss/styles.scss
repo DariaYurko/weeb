@@ -1,0 +1,17 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+
+// --------- Сonnecting variables --------------
+@import "./variables.scss";
+
+@import url("/css/reset.css");
+@import url("/css/base.css");
+@import url("/css/container.css");
+
+// --------- Сonnecting partials styles --------
+@import "./header.scss";
+@import "./footer.scss";

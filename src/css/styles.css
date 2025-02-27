@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+@import url("/css/reset.css");
+@import url("/css/base.css");
+@import url("/css/container.css");
+/**
+*
+*
+*--------- Сonnecting HEADER styles --------*/
+/**
+*
+*
+*--------- Сonnecting FOOTER styles --------*/
+.footer {
+  padding: 20px 0;
+  background-color: #d8ae5e;
+}
